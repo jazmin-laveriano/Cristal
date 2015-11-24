@@ -1,0 +1,405 @@
+html,body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    margin: 0px;
+    padding: 0px; 
+}
+a , a:hover{ 
+color: gray;
+}
+h2.sub-text {
+    padding: 4% 25%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 56px;
+    color: #2c3e50;
+}
+.hero-img {
+    width: 100%;
+    height: 538px;
+    background: url('../img/cristal.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.pt-10 {
+    padding-top:10%;
+}
+.pb-3 {
+    padding-bottom: 3%;
+}
+header {
+    padding: 1% 7%;
+    background: #FCF8F8;
+}
+.nav-right{
+    text-align: right;
+    padding-top: 2%;
+
+}
+nav a {
+	text-decoration: none;
+	padding: 1%;
+    color: gray;
+    transition: background-color 1s;
+    font-weight: 900;
+    margin-left: 1%;
+
+} 
+nav a:hover {
+    padding: 1%;
+    color: black;
+    background-color: #D7D6D7;
+    text-decoration: none;
+}
+.logo {
+	width: 60%;
+}
+.texto1 {
+   padding: 0% 16%;
+}
+.texto2 {
+    padding: 0% 16%;
+}
+  
+.textmedio {
+    padding: 2% 15%;
+}
+.services {
+    font-size: 22px;
+}
+
+h4 {
+	text-align: center;
+}
+.subti1 {
+	text-align: center;
+    margin-top: 14px;
+    font-size: 24px;
+}
+.subti2 {
+	text-align: center;
+    position: relative;
+    margin-top: 14px;
+    right: 2px;
+    font-size: 24px;
+}
+
+.banner1 {
+    width: 100%;
+    height: 347px;
+    background: url('../img/angel.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.banner2 {
+    background: url('../img/fondo.jpg');
+	width: 100%;
+	height: 347px; 
+    text-align: center;
+    padding: 5% 7%;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+
+h5 {
+	text-align: center;
+	position: relative;
+	top: 13px;
+	margin-bottom: 106px;
+}
+h3 {
+	text-align: center;
+	color: green;
+}
+.fondo2 {
+    width: 100%;
+	background-color: #4B8D47;
+    height: 885px;
+}
+.picture {
+	width: 74%;
+	margin-top: 8px;
+	position: relative;
+    left: 110px;
+    top: 117px;
+}
+.titu {
+    position: relative;
+    top: 92px;
+    left: 113px;
+    font-size: 24px;
+    color: white;
+}
+h1 {
+	text-align: center;
+    margin-top: 0px;
+    font-size: 29px;
+}
+.title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 6em;
+    padding-top: 7%;
+}
+.bajo {
+	text-align: center;
+}
+.debajo {
+	text-align: center;
+}
+.avatar3 {
+    margin: 0 auto;
+    padding-left: 33%;
+    padding-bottom: 7%;
+    background: url('../img/cubes.png');
+}
+.corea {
+    border-radius: 50%;
+    border: 5px solid gray;
+    background-color: gainsboro;
+}
+.nombres {
+	color: black;
+    font-size: 20px;
+}
+.group {
+    color: #2c3e50;
+    font-size: 23px;
+}
+.redes {
+	width: 36px;
+    margin-left: 9px;
+}
+.cargos {
+	color: black;
+}
+.pb-7 {
+    padding-bottom: 7%;
+}
+h6 {
+	color: black;
+    padding: 3% 25%;
+}
+.hero-image2 {
+    padding: 7% 5%;
+    background: url('../img/cubes.png');
+    height: 100%;
+}
+.fondo3 {
+    height: 90%;
+    background: url('../img/fondo2.jpg');
+    padding-left: 5%;
+}
+#a {
+    width: 80%;
+}    
+#b {
+    width: 80%;
+}
+#c {
+    width: 80%;
+}
+.blog {
+    font-size: 24px;
+    padding: 2% 5%;
+
+}
+.prim {
+ }
+.seg {
+    position: relative;
+    bottom: 480px;
+    left: 7px;
+}
+.ter {
+    position: relative;
+    bottom: 480px;
+    left: 64px;
+}
+
+.fleiz {
+    position: relative;
+    bottom: 743px;
+    right: 137px;
+}
+.bk-text {
+    color: black;
+}
+
+.fleder {
+    position: absolute;
+    right: 3%;
+    margin-top: -19%;
+}
+.blanco {
+    position: relative;
+}
+#borde {
+    border: 1px solid white;
+}
+#contact {
+	width: 100%;
+    text-align: center;
+    background-size: cover;
+	background-color: gray;
+    background: url('../img/cubes.png');
+    padding: 7% 3% 7%;
+}
+/*color transition en el cuadro*/
+.borde {
+    transition: background-color 1s;
+}
+.borde:hover {
+    background-color: #807C7C ;
+}
+.borde{
+	border: 1px solid white;
+	top: 50px;
+	width: 235px;
+	height: 239px;
+	position: relative;
+	padding: 23px;
+}
+.redes2 {
+	width: 54px;
+}
+.logo {
+    font-family: 'Lobster Two', cursive;
+    font-size: 40px;
+}
+.final1 {
+    color: black;
+    font-size: 15px;
+}
+.final2 {
+    color: black;
+    font-size: 15px;
+    text-align: right;
+}
+.pt-3 {
+    padding-top: 3%;
+}
+.container-w {
+    width: 100%;
+}
+#about {
+    background: url('../img/cubes.png');
+}
+.box {
+    background: rgba(0,0,0,0.10);
+    height: 500px;
+    margin: 0 auto;
+   padding: 6% 20%;
+}
+.bg-color {
+    background-color: #4B4444;
+    padding: 1%;
+}
+.f-text {
+    margin: 0px;
+    color: white;
+    text-align: center
+}
+.missions {
+    background: url('../img/cubes.png');
+    padding: 6% 0% 7%;
+}
+.gray {
+    color: gray;
+    padding: 8% 0% 3%;
+}
+.pl {
+    padding-left: 
+}
+.opacity {
+    background: rgba(0,0,0,0.15);
+    padding: 4% 16%;
+    border: 2px solid white;
+}
+.image {
+    width: 88%;
+}
+.products {
+    padding: 7% 0%;
+    text-align: center;
+    background: url('../img/fondo2.jpg');
+}
+#size-cover {
+    height: 245px;
+}
+.box-price {
+    background-color: gray;
+    padding: 2% 0% 8%;
+    width: 55%;
+    height: 306px;
+    margin: 0 auto;
+}
+.price {
+    width: 88%;
+    height: 48px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 4%;
+    margin-top: 0%;
+}
+.l-img {
+    text-align: left;
+    width: 100%;
+    width: 63%;
+    height: 441px;
+    border: 4px solid white;
+}
+.box-right{
+    width: 78%;
+    background: white;
+    height: 441px;
+    padding: 5%;
+}
+.boxing {
+    background: rgba(0,0,0,0.10);
+    padding: 4% 0% 2%;
+}
+.t-center {
+    color: gray;
+    font-size: 19px;
+    text-align: left;
+}
+.desc {
+    font-size: 19px;
+    text-align: left;
+    padding: 0% 14% 0% 0%;
+}
+.rg {
+    text-align: right;
+    margin-top: 11%;
+}
+.bk {
+    color: black;
+    float: left;
+    font-size: 19px;
+}
+.dp {
+    display: inline-block;
+}
+.rt {
+    float: right;
+    margin-top: 2%;
+}
+.price-id {
+    width: 88%;
+    height: 39px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 4%;
+    margin-top: 0%;
+}
+.metodo {
+    padding: 4% 7%;
+}
+.opacity-2 {
+    background: rgba(0,0,0,0.15);
+}
